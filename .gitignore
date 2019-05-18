@@ -1,0 +1,11 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/ChamaGasXF/.vs/ChamaGasXF/v15
+/ChamaGasXF/ChamaGasXF/ChamaGasXF/obj
+/ChamaGasXF/ChamaGasXF/ChamaGasXF.Android/obj
+/ChamaGasXF/ChamaGasXF/ChamaGasXF.iOS/obj
+/ChamaGasXF/ChamaGasXF/ChamaGasXF.UWP/obj
+/ChamaGasXF/ChamaGasXF/ChamaGasXF/bin/Debug/netstandard2.0
+/ChamaGasXF/ChamaGasXF/ChamaGasXF.Android/bin/Debug
