@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ChamaGasXF.View;
+using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -10,8 +11,7 @@ namespace ChamaGasXF
         public App()
         {
             InitializeComponent();
-
-            MainPage = new MainPage();
+            MainPage = new MasterView();
         }
 
         protected override void OnStart()
